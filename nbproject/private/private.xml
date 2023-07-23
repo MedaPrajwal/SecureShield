@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/Login.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/src/java/userRegistration.java</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/src/java/Logic/info.java</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/user_home.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/admin_home.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/Logout.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/verify_face.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/src/java/DataBase/DBConnection.java</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/src/java/verify_security_answer.java</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/signup.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/verify_otp.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/src/java/DataBase/DBQuery.java</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/final.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/face_process.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/src/java/capture_face.java</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/web/capture_face.jsp</file>
+            <file>file:/C:/Users/user/Documents/Prajwal%20Project/Secured_Web_portal/src/java/Logic/MailSend.java</file>
+        </group>
+    </open-files>
+</project-private>
