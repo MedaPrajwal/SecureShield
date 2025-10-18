@@ -1,0 +1,90 @@
+# SecureShield
+
+**An Advance Multi-Factor Authentication System**
+
+SecureShield is a powerful and flexible multi-factor authentication system, designed to enhance the security of applications by supporting multiple verification mechanisms. Built for integration into modern web and enterprise environments, it leverages best practices in security and user experience.
+
+---
+
+## Features
+
+- Multi-factor authentication (MFA): Combines password, OTP, and/or biometric factors
+- Modular architecture: Easily extensible and customizable for different security needs
+- Web-ready: Includes web interface and back-end integration support
+- Written in Java, with CSS and JavaScript for front-end components
+
+---
+
+## Folder Structure
+
+- `src/` - Core source code (Java classes and logic)
+- `build/web/`, `web/` - Web front-end resources (HTML, CSS, JS)
+- `lib/` - External libraries, dependencies
+- `dist/` - Built/packaged application files
+- `nbproject/` - NetBeans project files (if using NetBeans IDE)
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Java 8 or later
+- Maven or Gradle (for dependency management/building)
+- Modern web browser (for UI)
+- Optional: NetBeans IDE for project management
+
+### Build & Run
+
+1. **Clone the repository:**
+    ```
+    git clone https://github.com/MedaPrajwal/SecureShield.git
+    cd SecureShield
+    ```
+2. **Build the project:**
+    - Using Maven:
+        ```
+        mvn clean install
+        ```
+    - Using Gradle:
+        ```
+        gradle build
+        ```
+3. **Run the application:**
+    - Instructions will depend on your application’s entry point (e.g., main Java class or web server)
+
+---
+
+## Usage
+
+- Follow on-screen instructions in the web app to enroll and configure multi-factor authentication.
+- Integrate with your projects by extending the Java source or customizing web components in `web/` and `build/web/`.
+
+---
+
+## Contributing
+
+Contributions are welcome! Please:
+- Fork the repo
+- Create feature branches (`feature/<your-feature>`)
+- Open pull requests with clear descriptions
+
+---
+
+## License
+
+This project is open-source. See the `LICENSE` file for details.
+
+---
+
+## Contact
+
+Maintained by **MedaPrajwal**.  
+For issues and enhancement requests, please use the GitHub Issues page.
+
+---
+
+*Languages Used:*
+- **Java:** 75%
+- **CSS:** 19.5%
+- **JavaScript:** 5.5%
